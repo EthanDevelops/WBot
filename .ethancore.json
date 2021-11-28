@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "name": "drone",
+        "version": "dev",
+        "ignored-folders": {
+            "./": "./",
+            ".yarn": "yarn.config",
+            ".vscode": "vscode.config"
+        },
+        "author": "Drone.Project"
+    }
+}
