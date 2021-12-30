@@ -169,6 +169,6 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode,yarn
 
-src/exports/config.ts
+src/config/config.ts
 test
 .env
