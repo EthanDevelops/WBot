@@ -1,0 +1,1 @@
+console.log("INFO: Transpiling typescript...")
